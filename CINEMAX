@@ -9,3 +9,37 @@ https://espare.tk/live/discovery_channel.m3u8?token=G41_vDgrlTK8dZ1cMq7-tQ&expir
 https://espare.tk/live/historia.m3u8?token=2d-Yyg5YwBM-393kg1zyWQ&expires=1605399927
 #EXTINF:-1,UNIVERSAL CHANNEL
 https://espare.tk/live/universal_lat.m3u8?token=V-cQlB9RnccApYAG3A6dDg&expires=1605400112
+#EXTINF:-1,DARK
+https://espare.tk/live/dark.m3u8?token=MGWdcA8ed2Bro-a_A2tU4g&expires=1605401463
+#EXTINF:-1,FOX
+https://espare.tk/live/tnt.m3u8?token=rPQK36jXwXP_EBiPi2T2gA&expires=1605401587
+#EXTINF:-1,DISCOVERY KIDS
+https://espare.tk/live/discovery_kids_lat.m3u8?token=PgNN2w96ILzls3IwM9xqDA&expires=1605401656
+#EXTINF:-1,DISCOVERY INVESTIGATION
+https://espare.tk/live/inv_discovery_lat.m3u8?token=uEg9wGmZh9WQIqWEXBh0oA&expires=1605401726
+#EXTINF:-1,TLC
+https://espare.tk/live/tlc_lat.m3u8?token=OagrEQS_9QWuHBu2p_03sw&expires=1605401785
+#EXTINF:-1,BOOMERANG
+https://espare.tk/live/boomerang_lat.m3u8?token=10F7wczzDBs9aFR4zi10zg&expires=1605401855
+#EXTINF:-1,NICKELODEON
+https://espare.tk/live/nick_lat.m3u8?token=BW0N1geR9KDfutX4aTQbWA&expires=1605401896
+#EXTINF:-1,DISNEYJR
+https://espare.tk/live/disney_jr_lat.m3u8?token=llsClJJ-G_UknNO4r-1ScA&expires=1605401934
+#EXTINF:-1,SYFY
+https://espare.tk/live/syfyes.m3u8?token=gLWS109ZRj-VpoY8Gz7fLQ&expires=1605401993
+#EXTINF:-1,COMEDYCENTRAL
+https://espare.tk/live/comedycentral.m3u8?token=jzAJuvo3hEyBszuKJMvI9Q&expires=1605402758
+#EXTINF:-1,PAKAPAKA
+https://espare.tk/live/paka_paka_lat.m3u8?token=lQw2LRyUHR1jszfg-dJDrg&expires=1605402807
+#EXTINF:-1,HISTORYCHANNEL2
+https://espare.tk/live/historia_2_lat.m3u8?token=DzaqO_6j_Sa73n8H9VrG5g&expires=1605402940
+#EXTINF:-1,CAZAVISION
+https://espare.tk/live/cazavision_lat.m3u8?token=ByPHKLZWF7NRvkP2DoSX5Q&expires=1605402989
+#EXTINF:-1,ODISEA
+https://espare.tk/live/odisea.m3u8?token=oWynMvEIiv2trmRt0TPkmQ&expires=1605403028
+#EXTINF:-1,WARNER
+https://espare.tk/live/warner_lat.m3u8?token=z6XgavNk2kTQouVDHJiL_Q&expires=1605403199
+#EXTINF:-1,TELEMADRID
+https://telemadridhls-live-hls.secure.footprint.net/telemadrid/telemadrid1/bitrate_2.m3u8
+#EXTINF:-1,UNIVERSALSTUDIO
+https://espare.tk/live/studiouniversallat.m3u8?token=7Waiu4Gk3rA9oeLrbzizDg&expires=1605403319
