@@ -1,3 +1,11 @@
 #EXTM3U
 #EXTINF:-1,ESPN 
 https://espare.tk/live/cinemax.m3u8?token=WiVqqrjRhjUFfUYePvKjxQ&expires=1605398215
+#EXTINF:-1,NATIONAL GEOGRAFIC
+https://espare.tk/live/nat_geographic_lat.m3u8?token=i2RJek7PLDrV1LLtQEwK7A&expires=1605399293
+#EXTINF:-1,DISCOVERY CHANNEL
+https://espare.tk/live/discovery_channel.m3u8?token=G41_vDgrlTK8dZ1cMq7-tQ&expires=1605399604
+#EXTINF:-1,HISTORY CHANNEL
+https://espare.tk/live/historia.m3u8?token=2d-Yyg5YwBM-393kg1zyWQ&expires=1605399927
+#EXTINF:-1,UNIVERSAL CHANNEL
+https://espare.tk/live/universal_lat.m3u8?token=V-cQlB9RnccApYAG3A6dDg&expires=1605400112
